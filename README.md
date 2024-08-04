@@ -16,15 +16,15 @@ The application not only helps users keep track of their inventory but also ensu
 
 ## Installation 🚀
 
-To get started with Stock Smart, follow these steps:
+To get started with StockSmart, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/naraengk/stocksmart.git
+   git clone https://github.com/naraengk/stock-smart.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd stocksmart
+   cd stock-smart
    ```
 3. **Install Dependencies**:
    ```bash
