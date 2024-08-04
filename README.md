@@ -1,8 +1,8 @@
-# Stock Smart 🌟
+# StockSmart 🌟
 
 ## Overview
 
-**Stock Smart** is an innovative web application designed to help users efficiently manage their pantry inventory. 🗃️ This tool allows users to easily track and organize their pantry items, with a focus on user-friendly interactions and a sleek design. It offers functionalities to add, update, and remove pantry items while maintaining a clean and intuitive interface. 🧹
+**StockSmart** is an innovative web application designed to help users efficiently manage their pantry inventory. 🗃️ This tool allows users to easily track and organize their pantry items, with a focus on user-friendly interactions and a sleek design. It offers functionalities to add, update, and remove pantry items while maintaining a clean and intuitive interface. 🧹
 
 The application not only helps users keep track of their inventory but also ensures that all item names are formatted correctly, making it easier to identify and manage each item. By incorporating essential features such as quantity management and metrics, Stock Smart offers a practical solution for maintaining an organized pantry. 📦
 
@@ -20,7 +20,7 @@ To get started with Stock Smart, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-smart.git
+   git clone https://github.com/naraengk/stock-smart.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
