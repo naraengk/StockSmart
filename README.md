@@ -43,10 +43,6 @@ Once you open the website in your web browser to access StockSmart. From there, 
 
 Contributions are welcome! If you would like to contribute to the development of Stock Smart, please fork the repository and submit a pull request with your changes. Be sure to follow the project's coding guidelines and include appropriate tests for new features. 💡
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact 📧
 
 For any inquiries or issues, please contact me at naraengopala@umass.edu.
