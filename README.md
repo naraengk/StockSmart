@@ -20,11 +20,11 @@ To get started with Stock Smart, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/naraengk/stock-smart.git
+   git clone https://github.com/naraengk/stocksmart.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd stock-smart
+   cd stocksmart
    ```
 3. **Install Dependencies**:
    ```bash
