@@ -1,0 +1,124 @@
+body {
+  font-family: 'Graphik', sans-serif;
+  background-color: #203354;
+  color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 800px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
+
+header {
+  background: white;
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+  color: black;
+}
+
+.add-item-form {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.add-item-form input {
+  flex: 1;
+  padding: 12px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+  outline: none;
+  transition: border-color 0.3s ease;
+  color: black;
+}
+
+.add-item-form input:focus {
+  border-color: #0056b3;
+}
+
+.add-item-form button {
+  padding: 12px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.add-item-form button:hover {
+  background-color: #0056b3;
+}
+
+.pantry-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.pantry-table th,
+.pantry-table td {
+  padding: 12px;
+  border: 1px solid #e0e0e0;
+  text-align: center;
+}
+
+.pantry-table th {
+  background-color: lightblue;
+  color: black;
+}
+
+.pantry-table td {
+  background-color: white;
+  color: black;
+}
+
+.pantry-item-actions button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 0 5px;
+  transition: background-color 0.3s ease;
+}
+
+.pantry-item-actions button:hover {
+  background-color: #0056b3;
+}
+
+footer {
+  margin-top: 20px;
+  color: #999;
+  font-size: 14px;
+  text-align: center;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StockSmart</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Graphik:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>StockSmart</h1>
+    </header>
+    <main>
+      <div class="add-item-form">
+        <input type="text" id="item-name" placeholder="Enter item name" autofocus>
+        <input type="text" id="item-amount" placeholder="Enter amount (e.g., 200)">
+        <input type="text" id="item-metric" placeholder="Enter metric (e.g., g, ml)">
+        <button onclick="addItem()">Add Item</button>
+      </div>
+      <table id="pantry-table" class="pantry-table">
+        <thead>
+          <tr>
+            <th>Item Name</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="pantry-list"></tbody>
+      </table>
+    </main>
+    <footer>
+      <p>&copy; 2024 Naraen Gopalakrishnan. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
