@@ -1,4 +1,4 @@
-# StockSmart 🌟
+# StockSmart 🛒
 
 ## Overview
 
