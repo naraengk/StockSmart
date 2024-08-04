@@ -6,6 +6,8 @@
 
 The application not only helps users keep track of their inventory but also ensures that all item names are formatted correctly, making it easier to identify and manage each item. By incorporating essential features such as quantity management and metrics, Stock Smart offers a practical solution for maintaining an organized pantry. 📦
 
+Link to website: https://pantry-tracker-self-psi.vercel.app/
+
 ## Features ✨
 
 - **Add New Items**: Users can add new pantry items by specifying the item name, quantity, and measurement metric (e.g., grams, milliliters). ➕
